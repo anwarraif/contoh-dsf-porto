@@ -11,6 +11,8 @@ kalimat 2 yang menjelaskan tentang deskrispi dan detail pada dataset yang diguna
 
 paragraf 2 berisi kalimat 3 dan kalimat 4
 
+Paragraf 3
+
 ### Insight
 Insight yang saya dapat dari projek ini ialah :
 1. aaa
